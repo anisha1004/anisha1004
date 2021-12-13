@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on projects based around ReactJs
+
 <!--
 **anisha1004/anisha1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
